@@ -239,3 +239,95 @@ http://103.228.155.77:9981/stream/channelid/1924563211
 http://103.228.155.77:9981/stream/channelid/1503918673
 #EXTINF:-1,Yo TV
 http://103.228.155.77:9981/stream/channelid/1273999040
+
+
+#EXTINF:-1,Aajtak
+http://vapi.vaders.tv/play/39404.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,&Pictures HD
+http://vapi.vaders.tv/play/12306.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Aastha TV
+http://vapi.vaders.tv/play/39391.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Aastha Bhajan
+http://vapi.vaders.tv/play/39392.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Colors India HD
+http://vapi.vaders.tv/play/12300.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,B4U Movies
+http://vapi.vaders.tv/play/19291.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Discovery Kids India
+http://vapi.vaders.tv/play/39443.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,D2H Classics HD
+http://vapi.vaders.tv/play/56701.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,D2H Cinema HD
+http://vapi.vaders.tv/play/56702.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,D2H Movies HD
+http://vapi.vaders.tv/play/56699.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,D2H Kids Rhymes HD
+http://vapi.vaders.tv/play/56700.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,MTV India
+http://vapi.vaders.tv/play/19290.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Nick Sonic India
+http://vapi.vaders.tv/play/8256.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Nick Jr India
+http://vapi.vaders.tv/play/8254.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Nickelodeon India HD
+http://vapi.vaders.tv/play/12293.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,NDTV India
+http://vapi.vaders.tv/play/39406.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Rishtey TV
+http://vapi.vaders.tv/play/47371.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony Le Plex HD
+http://vapi.vaders.tv/play/56697.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony ESPN HD
+http://vapi.vaders.tv/play/12288.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony Max UK
+http://vapi.vaders.tv/play/63750.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony Max India HD
+http://vapi.vaders.tv/play/12286.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony Mix UK
+http://vapi.vaders.tv/play/58783.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony Mix
+http://vapi.vaders.tv/play/12285.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony Rox HD
+http://vapi.vaders.tv/play/56698.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony Pal
+http://vapi.vaders.tv/play/12284.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony Set Max UK
+http://vapi.vaders.tv/play/58784.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony SAB HD
+http://vapi.vaders.tv/play/48009.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony TV USA HD
+http://vapi.vaders.tv/play/16187.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sony TV India HD
+http://vapi.vaders.tv/play/12279.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Sanskar TV
+http://vapi.vaders.tv/play/39393.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Star Bharat USA
+http://vapi.vaders.tv/play/12298.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Star Bharat India HD
+http://vapi.vaders.tv/play/39438.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Star Gold Select HD US
+http://vapi.vaders.tv/play/73032.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Star Gold Select HD
+http://vapi.vaders.tv/play/38774.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Star Gold India HD
+http://vapi.vaders.tv/play/34272.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Star Gold UK
+http://vapi.vaders.tv/play/58785.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Star Plus UK
+http://vapi.vaders.tv/play/48053.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Star Plus India HD
+http://vapi.vaders.tv/play/12275.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Star Plus USA
+http://vapi.vaders.tv/play/8277.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Star World Premier HD
+http://vapi.vaders.tv/play/38775.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Star World HD
+http://vapi.vaders.tv/play/12266.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,Travel XP India HD
+http://vapi.vaders.tv/play/39485.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,TLC India
+http://vapi.vaders.tv/play/39626.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,UTV Movies
+http://vapi.vaders.tv/play/19292.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+#EXTINF:-1,UTV Action
+http://vapi.vaders.tv/play/12263.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
